@@ -1,0 +1,22 @@
+{
+  "alarms": [
+    {
+      "id": 3,
+      "time": "2023-05-02 12:00",
+      "label": "Lunch",
+      "cmt": []
+    },
+    {
+      "id": 4,
+      "time": "2023-05-02 18:00",
+      "label": "Dinner",
+      "cmt": []
+    },
+    {
+      "time": "5.56",
+      "label": "Wake up",
+      "cmt": [],
+      "id": 5
+    }
+  ]
+}
